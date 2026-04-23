@@ -18,3 +18,6 @@ vercel
 npm run build
 dist
 VITE_API_URL
+
+
+npm install axios
