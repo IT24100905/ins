@@ -1,0 +1,15 @@
+create front and backend folders inside main folder (mkdir)
+go inside backend
+	npm init -y
+	npm install express mongoose cors dotenv
+	npm install nodemon --save-dev
+
+now create other files and add the codes. inside .env file add mongodb url and port number as 5000 or 5001
+	npm run dev (to check database connection)
+
+
+go inside the frontend
+get new terminal and go inside frontend. 
+	npm create vite@latest
+give project name and package name (slect react and javascript)
+
