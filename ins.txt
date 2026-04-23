@@ -13,3 +13,8 @@ get new terminal and go inside frontend.
 	npm create vite@latest
 give project name and package name (slect react and javascript)
 
+
+vercel
+npm run build
+dist
+VITE_API_URL
